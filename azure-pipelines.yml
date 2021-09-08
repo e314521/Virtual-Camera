@@ -38,4 +38,4 @@ steps:
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
   inputs:
-    PathtoPublish: '$(build.artifactstagingdirectory)'
+    PathtoPublish: 'D:\a\1\s\'
